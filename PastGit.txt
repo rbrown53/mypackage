@@ -1,0 +1,1 @@
+I have had very limited experience during CS 1410 Object Oriented, where Git was first presented by Samuel Luther, the command line, the terminal, GitHub, pushing, pulling, and cloning.  Besides that, we were required to make a repository for Data Analysis I with Dr. Chaudhry.
