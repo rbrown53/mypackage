@@ -1,0 +1,3 @@
+My experience with github is petty messy. In CS 1410 we were suposed to extensively use github, but the professor told us we could use a VSCode extension that used buttons, so I never bothered learning the commands. Then in CS 2450 my group used github on our semester-long project for colaboration purposes. Once again, I stuck with the VSCode buttons, so I didn't learn the commands either. However, I did get more comfortable using github throughout that project. 
+
+This is by far the best lesson I've had when it comes to learning github properly :)
