@@ -1,0 +1,5 @@
+This lab (Lab1) has given me a lot of experience using Unix and Git. I have previously used GitHub for other classes,
+but never formally learned how to use or utilize it. So far in this lab, I have coded in my computer's terminal;
+created, deleted, copied, and merged folders, directories, files and branches; synced my GitHub to a folder on my 
+computer, etc. All of which I have never done prior to this lab.
+- Melanie Jensen 1/12/26
