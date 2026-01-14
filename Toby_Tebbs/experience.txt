@@ -1,0 +1,1 @@
+I have had a bit of experience using the terminal before, and was already comfortable with commands like cd, ls, mkdir, etc. However, using git and github is a new skill for me. I have heard about github and have repositories and the like before, but I had no clue as to how it worked. 
