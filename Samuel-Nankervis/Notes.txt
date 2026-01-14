@@ -1,0 +1,1 @@
+I have learned a lot about Git and GitHub through the lab. Previously I had only used git once while following a tutorial. Now I feel like I am fairly familiar with Git and GitHub Repositories.
