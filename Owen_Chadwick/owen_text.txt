@@ -1,0 +1,1 @@
+This lab is basically all of the experience I have with git. I have used github before but just for very basic submission of assignments. Never in conjunction with git. 
